@@ -15,8 +15,10 @@ Including another URLconf
 """
 from django.conf.urls import url
 
+from blog import testdb
 from . import view
 
 urlpatterns = [
     url(r'^$', view.hello),
+    url(r'^testdb$', testdb.testdb),
 ]
