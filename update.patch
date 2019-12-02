@@ -1,0 +1,8 @@
+Index: test.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test.py	(date 1575303912000)
++++ test.py	(date 1575303912000)
+@@ -0,0 +1,0 @@
