@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="688a66b5-7287-4bba-ad5f-ac158d59cab8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/update.patch" beforeDir="false" />
-    </list>
+    <list default="true" id="688a66b5-7287-4bba-ad5f-ac158d59cab8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -156,7 +153,7 @@
       <workItem from="1574519732896" duration="12634000" />
       <workItem from="1574697257277" duration="2030000" />
       <workItem from="1574841019904" duration="1608000" />
-      <workItem from="1575301005287" duration="1611000" />
+      <workItem from="1575301005287" duration="2207000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1574519381967</created>
@@ -295,7 +292,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18778000" />
+    <option name="totallyTimeSpent" value="19374000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
